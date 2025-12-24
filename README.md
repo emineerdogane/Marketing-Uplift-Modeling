@@ -101,7 +101,23 @@ jupyter notebook
 
 ---
 
-## 📊 Features (26 Total)
+## � Visualizations
+
+### 1. AUUC Curve - Campaign Effectiveness
+![Uplift Curve](screenshots/Uplift%20Curve.png)
+*Area Under the Uplift Curve (AUUC) shows the incremental conversion rate as we target customers ranked by predicted uplift score.*
+
+### 2. Uplift Score Distribution
+![Uplift Distribution](screenshots/Distribution%20of%20Predicted%20Uplift%20Scores.png)
+*Distribution of individual uplift predictions showing most customers cluster near zero effect, with a small segment of high-uplift responders.*
+
+### 3. Customer Segmentation (4 Quadrants)
+![Customer Segments](screenshots/Customer%20Segments.png)
+*Breakdown of customers into actionable segments: 97.7% "Sure Things" vs. 2.29% "Persuadables" for targeted marketing.*
+
+---
+
+## �📊 Features (26 Total)
 
 ### Demographic Features
 - Age, income, membership tenure
