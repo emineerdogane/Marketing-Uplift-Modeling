@@ -237,9 +237,9 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Emine**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+**Emine Erdogan**
+- GitHub: [@emineerdogane](https://github.com/emineerdogane)
+- LinkedIn: [Emine Erdogan](https://www.linkedin.com/in/emine-erdogan/)
 
 ---
 
