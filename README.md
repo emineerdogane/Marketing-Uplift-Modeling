@@ -16,10 +16,6 @@ This project implements an **Uplift Modeling** solution using the Starbucks prom
 - **$48,853/month** theoretical savings in ad spend efficiency (at 200K monthly users, $0.25 CPC)
 - **AUUC Score: 0.0131** - Model successfully isolates incremental lift
 
-### 💼 Resume Bullet
-
-> Developed an Uplift Model using T-learner approach to isolate the true incremental impact of marketing campaigns; identified 97.7% of users as 'Sure Things' to exclude from targeting, theoretically saving $48,853/month in ad spend efficiency.
-
 ---
 
 ## 🏗️ Architecture
@@ -263,6 +259,13 @@ This project is licensed under the MIT License.
 - [ ] Create interactive dashboard with Plotly Dash
 - [ ] Implement multi-armed bandit for dynamic targeting
 - [ ] Add propensity score matching for better causal inference
+
+---
+
+## 📫 Contact
+
+- **GitHub:** [@emineerdogane](https://github.com/emineerdogane)
+- **LinkedIn:** [Emine Erdogan](https://www.linkedin.com/in/emine-erdogan/)
 
 ---
 
